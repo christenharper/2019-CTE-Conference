@@ -12,7 +12,6 @@ Resources and Information for the 2019 CTE conference in Chattanooga, TN.
 - [CodePen Example](https://codepen.io/DevCatalyst/pen/xMpWEa)
 - [HTML Color Code](https://htmlcolorcodes.com/)
 - Project Based Coding
-- User Experience
 
 ## Working in a Team
 - Project Manager
@@ -21,6 +20,8 @@ Resources and Information for the 2019 CTE conference in Chattanooga, TN.
 - Graphic Designer (UX)
 
 ## Lesson Plans and Pacing
+- [Stack Overflow](https://stackoverflow.com/)
+- Meeting CTE Standards
 
 ## Input from Real Industry Professionals
 
