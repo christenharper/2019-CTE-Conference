@@ -10,7 +10,7 @@ Resources and Information for the 2019 CTE conference in Chattanooga, TN.
 ## CodePen
 - [CodePen website](https://codepen.io/)
 - [CodePen Example](https://codepen.io/DevCatalyst/pen/xMpWEa)
-- [HTML Color Code](https://htmlcolorcodes.com/)
+- #FF5733
 - Project Based Coding
 
 ## Working in a Team
